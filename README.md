@@ -9,6 +9,10 @@ Unsere Regeln:
 - Jeder zahlt sein Essen/Trinken selbst
 
 
+# Registrierung
+https://www.xing.com/communities/groups/sap-stammtisch-luzern-ed9c-1110610/about
+
+
 # Termine
 | Datum | Themen | Link |
 |---------------|----------------|---------------|
