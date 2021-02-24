@@ -24,3 +24,9 @@ https://www.xing.com/communities/groups/sap-stammtisch-luzern-ed9c-1110610/about
 | `Oktober - Mittwoch, 27.10.2021` | ... | ... |
 | `November - Mittwoch, 24.11.2021` | ... | ... |
 
+
+# Themvorschläge
+| Beschreibung | Person | Link | Status |
+|---------------|----------------|---------------|---------------|
+| ... | ... | ... | ... |
+
